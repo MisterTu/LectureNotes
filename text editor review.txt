@@ -1,0 +1,9 @@
+Text Editor
+
+You need a good basic text editor. Wordpad, Word etc. are no options, as they add format information to the text. Eclipse is also not the best option, as it is rather heavyweight. Here are some suggestions:
+
+    Komodo Edit (free) (http://www.activestate.com/komodo-edit)
+    I use Sublime Text 2 which is not free, but can be evaluated for free. (www.sublimetext.com/2)
+    vi or vim - free, available everywhere, somewhat steeper learning curve - I recommend that you learn at least some basic vi commands as vi is available on all remote unix boxes you might happen to log in with ssh. (http://en.wikipedia.org/wiki/Vi)
+
+If you work on multiple platforms, you should choose one that is available on all of them.

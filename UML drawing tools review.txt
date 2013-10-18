@@ -1,0 +1,5 @@
+UML Drawing Tool
+
+I will accept hand-drawn UML Diagrams for the Lab Reports! I even recommend drawing them by hand, as it gives you more time thinking about your design versus fighting the idiosyncrasies of a particular UML tool which will be out of date or for some other reason unusable next time you need one. And, as redrawing them is more work if you do them by hand, you might end up with simpler diagrams focussing on the most important aspects than if you have a tool.
+
+Nevertheless, your colleagues from the previous semesters preferred UML tools. Well, go ahead and find one, if you must.
