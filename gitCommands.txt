@@ -1,2 +1,8 @@
+git status
+git add .
+git status
+git commit –m "Initial Commit"
+
+Source:
+Barbara Kleinen
 https://moodle.htw-berlin.de/pluginfile.php/71274/mod_resource/content/1/info3-ws2013-02-git-scm-2.pdf
-Das ist die Quelle.
